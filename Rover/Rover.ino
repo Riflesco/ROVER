@@ -22,7 +22,7 @@ struct dataStruct {
 } myData; 
 
 
-#define LM1 2      // left motor
+#define LM1 10      // left motor
 #define LM2 3       // left motor
 #define LM3 4       // left motor
 #define LM4 5       // left motor
